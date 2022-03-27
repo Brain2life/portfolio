@@ -10,10 +10,10 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
 
 ### Contacts and links
 1. Personal blog: [https://brain2life.hashnode.dev/](https://brain2life.hashnode.dev/)
-2. Linkedin profile: [profile](https://www.linkedin.com/in/maxat-a-970770151/)
-3. Github page: [link](https://github.com/Brain2life)
-4. Gitlab page: [link](https://gitlab.com/brain2life)
-5. TryHackMe page: [link](https://tryhackme.com/p/brain2life)
+2. [Linkedin profile](https://www.linkedin.com/in/maxat-a-970770151/)
+3. [Github](https://github.com/Brain2life)
+4. [Gitlab](https://gitlab.com/brain2life)
+5. [TryHackMe profile](https://tryhackme.com/p/brain2life)
 
 ### Completed courses
 1. Git:
