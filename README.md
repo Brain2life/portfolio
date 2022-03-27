@@ -18,6 +18,22 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
 ### Completed courses
 1. Git:
     - [Git for teams](https://i.imgur.com/bzd5rAk.png)
+    - [Git for Beginners](https://i.imgur.com/Z2V677s.png)
 2. Kubernetes:
     - [Kubernetes: Native Tools](https://i.imgur.com/K8NwP1x.png)
     - [Learning Kubernetes](https://i.imgur.com/1t5ubeF.png)
+3. Cybersecurity:
+    - [Advent of Cyber 2021 TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GCWTVMJI6D.png)
+    - [Advent of Cyber 2020 TryHackMe](https://drive.google.com/file/d/1Q2zUdo5Y7YYu8npGJfrwWi4Fb7bvPeEl/view)
+    - [Pre-security learning path: TryHackMe](https://drive.google.com/file/d/1DEGjY2HoyZ77WLO675jh4x2G2-zjOSmQ/view)
+    - [Offensive Pentesting Learning Path: TryHackMe](https://drive.google.com/file/d/14tIfJBtmpAZ9yFG2R6U5GKg46jngCMtC/view)
+    - [CompTIA Pentest+ Learning Path](https://drive.google.com/file/d/18wJ3P2O9deCsj-6xvKV_STuuNegGD4TC/view)
+    - [Complete Beginner Learning Path: TryHackMe](https://drive.google.com/file/d/18wJ3P2O9deCsj-6xvKV_STuuNegGD4TC/view)
+    - [Web Fundamentals learning path](https://drive.google.com/file/d/1OVNP7Z8jN4sRoQeTRFcy4tRZUAGYkvQp/view)
+4. Terraform:
+    - [Hashicorp certified: Terraform Associate Prep Course 2021](https://www.udemy.com/certificate/UC-e51adfed-c7e2-4f26-835a-a349b9944cc0/)
+5. Apigee API:
+    - [API Development on Google Cloud's Apigee API platform](https://www.coursera.org/account/accomplishments/certificate/XDPL3K4JG675)
+    - [Developing APIs with Google Cloud's Apigee API Platform](https://www.coursera.org/account/accomplishments/specialization/certificate/UVAEWQLF3VLK)
+    - [API Design and Fundamentals of Google Cloud's Apigee API platform](https://www.coursera.org/account/accomplishments/certificate/XPPTPJHUE8CP)
+    - [API Security on Google Cloud's Apigee API platform](https://www.coursera.org/account/accomplishments/certificate/48KHPZYXXA4E)
