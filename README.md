@@ -3,6 +3,7 @@
 ## Table of contents
 1. [About me](#about-me)
 2. [Contacts and links](#contacts-and-links)
+3. [Completed courses](#completed-courses)
 
 ### About me
 I'm a postgraduate in Cyber Security with working experience across Software Development and DevOps operations. The top player on TryHackMe platform, multilingual speaker (Kazakh, Russian, English, Spanish, and Turkish), curios person, bookworm, geek, sports lover, and just a good guy to speak with!
@@ -17,3 +18,6 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
 ### Completed courses
 1. Git:
     - [Git for teams](https://i.imgur.com/bzd5rAk.png)
+2. Kubernetes:
+    - [Kubernetes: Native Tools](https://i.imgur.com/K8NwP1x.png)
+    - [Learning Kubernetes](https://i.imgur.com/1t5ubeF.png)
