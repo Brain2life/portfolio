@@ -37,3 +37,5 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
     - [Developing APIs with Google Cloud's Apigee API Platform](https://www.coursera.org/account/accomplishments/specialization/certificate/UVAEWQLF3VLK)
     - [API Design and Fundamentals of Google Cloud's Apigee API platform](https://www.coursera.org/account/accomplishments/certificate/XPPTPJHUE8CP)
     - [API Security on Google Cloud's Apigee API platform](https://www.coursera.org/account/accomplishments/certificate/48KHPZYXXA4E)
+6. Jenkins CI:
+    - [Jenkins course by KodeKloud](https://kodekloud.com/certificate-verification/73613B4BEA-7EE78A63F9-735B083B42/)
