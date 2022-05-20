@@ -4,6 +4,7 @@
 1. [About me](#about-me)
 2. [Contacts and links](#contacts-and-links)
 3. [Completed courses](#completed-courses)
+4. [Projects](#projects)
 
 ### About me
 I'm a postgraduate in Cyber Security with working experience across Software Development and DevOps operations. The top player on TryHackMe platform, multilingual speaker (Kazakh, Russian, English, Spanish, and Turkish), curios person, bookworm, geek, sports lover, and just a good guy to speak with!
@@ -39,3 +40,7 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
     - [API Security on Google Cloud's Apigee API platform](https://www.coursera.org/account/accomplishments/certificate/48KHPZYXXA4E)
 6. Jenkins CI:
     - [Jenkins course by KodeKloud](https://kodekloud.com/certificate-verification/73613B4BEA-7EE78A63F9-735B083B42/)
+
+### Projects
+1. Python:
+    - [100 days of code bootcamp by Dr. Angela Yu](https://github.com/Brain2life/100-days-of-code-python)
