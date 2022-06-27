@@ -46,3 +46,5 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
     - [100 days of code bootcamp by Dr. Angela Yu](https://github.com/Brain2life/100-days-of-code-python)
 2. Docker:
     - [Simple Python-based application to send ping requests to the specified hosts](https://hub.docker.com/r/makbanov/web-request)
+3. Jenkins:
+    - [Simple Jenkins server setup with remote build agents](https://github.com/Brain2life/vagrant-templates/tree/multi-jenkins-vm)
