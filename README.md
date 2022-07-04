@@ -48,3 +48,5 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
     - [Simple Python-based application to send ping requests to the specified hosts](https://hub.docker.com/r/makbanov/web-request)
 3. Jenkins:
     - [Simple Jenkins server setup with remote build agents](https://github.com/Brain2life/vagrant-templates/tree/multi-jenkins-vm)
+4. Terraform:
+    - [Sample Nginx web server deployed via Docker provider](https://github.com/Brain2life/terraform-templates/tree/nginx-docker)
