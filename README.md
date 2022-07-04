@@ -6,7 +6,7 @@
 3. [Completed courses](#completed-courses)
 4. [Projects](#projects)
 
-### About me
+### About me :nerd_face:
 I'm a postgraduate in Cyber Security with working experience across Software Development and DevOps operations. The top player on TryHackMe platform, multilingual speaker (Kazakh, Russian, English, Spanish, and Turkish), curios person, bookworm, geek, sports lover, and just a good guy to speak with!
 
 ### Contacts and links
