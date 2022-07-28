@@ -5,6 +5,7 @@
 2. [Contacts and links](#contacts-and-links)
 3. [Completed courses](#completed-courses)
 4. [Projects](#projects)
+5. [Codewars](#codewars)
 
 ### About me :nerd_face:
 I'm a postgraduate in Cyber Security with working experience across Software Development and DevOps operations. The top player on TryHackMe platform, multilingual speaker (Kazakh, Russian, English, Spanish, and Turkish), curios person, bookworm, geek, sports lover, and just a good guy to speak with!
@@ -50,3 +51,7 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
     - [Simple Jenkins server setup with remote build agents](https://github.com/Brain2life/vagrant-templates/tree/multi-jenkins-vm)
 4. Terraform:
     - [Sample Nginx web server deployed via Docker provider](https://github.com/Brain2life/terraform-templates/tree/nginx-docker)
+
+### Codewars
+Coding exercises solved from [Codewars platform](https://www.codewars.com/).    
+Repository with solutions: [https://github.com/Brain2life/codewars](https://github.com/Brain2life/codewars)
