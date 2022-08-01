@@ -45,6 +45,7 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
 ### Projects :computer:
 1. Python:
     - [100 days of code bootcamp by Dr. Angela Yu](https://github.com/Brain2life/100-days-of-code-python)
+    - [Introductory on Unit Testing Python Functions with Pytest, Visual Studio Code, Command-line](https://github.com/Brain2life/python-unit-test-intro)
 2. Docker:
     - [Simple Python-based application to send ping requests to the specified hosts](https://hub.docker.com/r/makbanov/web-request)
 3. Jenkins:
