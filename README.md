@@ -1,10 +1,10 @@
 # Personal portfolio Maxat Akbanov
 
 ## Table of contents
-1. [About me](#about-me)
-2. [Contacts and links](#contacts-and-links)
-3. [Completed courses](#completed-courses)
-4. [Projects](#projects)
+1. [About me](#about-me-nerdface)
+2. [Contacts and links](#contacts-and-links-link)
+3. [Completed courses](#completed-courses-openbook)
+4. [Projects](#projects-computer)
 5. [Codewars](#codewars)
 
 ### About me :nerd_face:
