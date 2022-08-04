@@ -52,6 +52,8 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
     - [Simple Jenkins server setup with remote build agents](https://github.com/Brain2life/vagrant-templates/tree/multi-jenkins-vm)
 4. Terraform:
     - [Sample Nginx web server deployed via Docker provider](https://github.com/Brain2life/terraform-templates/tree/nginx-docker)
+5. Bash:
+    - [Bash script to install minikube, kubectl and required pre-requisite tools on Ubuntu system](https://github.com/Brain2life/minikube-ubuntu-install)
 
 ### Codewars
 Coding exercises solved from [Codewars platform](https://www.codewars.com/).    
