@@ -41,6 +41,8 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
     - [API Security on Google Cloud's Apigee API platform](https://www.coursera.org/account/accomplishments/certificate/48KHPZYXXA4E)
 6. Jenkins CI:
     - [Jenkins course by KodeKloud](https://kodekloud.com/certificate-verification/73613B4BEA-7EE78A63F9-735B083B42/)
+7. Helm:
+    - [Kubernetes: Package Management with Helm](https://i.imgur.com/90waK7b.png)
 
 ### Projects :computer:
 1. Python:
