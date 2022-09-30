@@ -43,6 +43,8 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
     - [Jenkins course by KodeKloud](https://kodekloud.com/certificate-verification/73613B4BEA-7EE78A63F9-735B083B42/)
 7. Helm:
     - [Kubernetes: Package Management with Helm](https://i.imgur.com/90waK7b.png)
+8. Ansible:
+    - [Learning Ansible](https://i.imgur.com/gZCZIus.png)    
 
 ### Projects :computer:
 1. Python:
