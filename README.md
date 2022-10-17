@@ -66,3 +66,4 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
 ### Codewars
 Coding exercises solved from [Codewars platform](https://www.codewars.com/).    
 Repository with solutions: [https://github.com/Brain2life/codewars](https://github.com/Brain2life/codewars)
+Learn what does fork mean and how it works.
