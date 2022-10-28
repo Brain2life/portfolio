@@ -45,6 +45,7 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
     - [Kubernetes: Package Management with Helm](https://i.imgur.com/90waK7b.png)
 8. Ansible:
     - [Learning Ansible](https://i.imgur.com/gZCZIus.png)    
+    - [Ansible Essential Training](https://i.imgur.com/Aruqfws.png)
 
 ### Projects :computer:
 1. Python:
