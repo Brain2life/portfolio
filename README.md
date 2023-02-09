@@ -63,6 +63,7 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
     - [Bash script to install minikube, kubectl and required pre-requisite tools on Ubuntu system](https://github.com/Brain2life/minikube-ubuntu-install)
 6. Kubernetes:
     - [Introduction into Kubernetes Secrets and ConfigMaps](https://github.com/Brain2life/intro-kube-secrets-configmaps)
+    - [Local Kubernetes cluster provisioned via Vagrant and Ansible](https://github.com/Brain2life/vagrant-kubernetes-cluster)
 
 ### Codewars
 Coding exercises solved from [Codewars platform](https://www.codewars.com/).    
