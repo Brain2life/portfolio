@@ -46,6 +46,8 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
 8. Ansible:
     - [Learning Ansible](https://i.imgur.com/gZCZIus.png)    
     - [Ansible Essential Training](https://i.imgur.com/Aruqfws.png)
+9. NGINX Web server:
+    - [Learning NGINX](https://i.imgur.com/JXTgLfU.png)
 
 ### Projects :computer:
 1. Python:
