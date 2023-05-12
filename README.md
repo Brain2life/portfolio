@@ -48,6 +48,8 @@ I'm a postgraduate in Cyber Security with working experience across Software Dev
     - [Ansible Essential Training](https://i.imgur.com/Aruqfws.png)
 9. NGINX Web server:
     - [Learning NGINX](https://i.imgur.com/JXTgLfU.png)
+10. AWS:
+    - [Ultimate AWS Certified Developer Associate DVA-C02](https://udemy-certificate.s3.amazonaws.com/image/UC-c159c288-6826-4fba-aa87-d1425ae06d3b.jpg)
 
 ### Projects :computer:
 1. Python:
