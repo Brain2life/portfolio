@@ -11,11 +11,8 @@
 I'm a postgraduate in Cyber Security with working experience across Software Development and DevOps operations. The top player on TryHackMe platform, multilingual speaker (Kazakh, Russian, English, Spanish, and Turkish), curios person, bookworm, geek, sports lover, and just a good guy to speak with!
 
 ### Contacts and links :link:
-1. Personal blog: [https://brain2life.hashnode.dev/](https://brain2life.hashnode.dev/)
+1. Personal blog: [https://maxat-akbanov.com/](https://maxat-akbanov.com/)
 2. [Linkedin profile](https://www.linkedin.com/in/maxat-a-970770151/)
-3. [Github](https://github.com/Brain2life)
-4. [Gitlab](https://gitlab.com/brain2life)
-5. [TryHackMe profile](https://tryhackme.com/p/brain2life)
 
 ### Completed courses :open_book:
 1. Git:
